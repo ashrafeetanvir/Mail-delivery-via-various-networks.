@@ -1,2 +1,2 @@
 # Mail-delivery-via-various-networks.
-In this project some network has been created using some switches and routers. By using rip routing method email is sent from one computer to other computer and received succesfully.
+Switches and routers have been used in this project to create a network. Email can be successfully sent and received between computers via the rip routing method.
